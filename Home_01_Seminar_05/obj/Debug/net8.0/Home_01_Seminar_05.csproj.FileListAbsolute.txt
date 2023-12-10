@@ -1,0 +1,14 @@
+C:\Users\Anastasi\Desktop\geekBrains\28.11.2023\Home_01_Seminar_05\bin\Debug\net8.0\Home_01_Seminar_05.exe
+C:\Users\Anastasi\Desktop\geekBrains\28.11.2023\Home_01_Seminar_05\bin\Debug\net8.0\Home_01_Seminar_05.deps.json
+C:\Users\Anastasi\Desktop\geekBrains\28.11.2023\Home_01_Seminar_05\bin\Debug\net8.0\Home_01_Seminar_05.runtimeconfig.json
+C:\Users\Anastasi\Desktop\geekBrains\28.11.2023\Home_01_Seminar_05\bin\Debug\net8.0\Home_01_Seminar_05.dll
+C:\Users\Anastasi\Desktop\geekBrains\28.11.2023\Home_01_Seminar_05\bin\Debug\net8.0\Home_01_Seminar_05.pdb
+C:\Users\Anastasi\Desktop\geekBrains\28.11.2023\Home_01_Seminar_05\obj\Debug\net8.0\Home_01_Seminar_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasi\Desktop\geekBrains\28.11.2023\Home_01_Seminar_05\obj\Debug\net8.0\Home_01_Seminar_05.AssemblyInfoInputs.cache
+C:\Users\Anastasi\Desktop\geekBrains\28.11.2023\Home_01_Seminar_05\obj\Debug\net8.0\Home_01_Seminar_05.AssemblyInfo.cs
+C:\Users\Anastasi\Desktop\geekBrains\28.11.2023\Home_01_Seminar_05\obj\Debug\net8.0\Home_01_Seminar_05.csproj.CoreCompileInputs.cache
+C:\Users\Anastasi\Desktop\geekBrains\28.11.2023\Home_01_Seminar_05\obj\Debug\net8.0\Home_01_Seminar_05.dll
+C:\Users\Anastasi\Desktop\geekBrains\28.11.2023\Home_01_Seminar_05\obj\Debug\net8.0\refint\Home_01_Seminar_05.dll
+C:\Users\Anastasi\Desktop\geekBrains\28.11.2023\Home_01_Seminar_05\obj\Debug\net8.0\Home_01_Seminar_05.pdb
+C:\Users\Anastasi\Desktop\geekBrains\28.11.2023\Home_01_Seminar_05\obj\Debug\net8.0\Home_01_Seminar_05.genruntimeconfig.cache
+C:\Users\Anastasi\Desktop\geekBrains\28.11.2023\Home_01_Seminar_05\obj\Debug\net8.0\ref\Home_01_Seminar_05.dll
